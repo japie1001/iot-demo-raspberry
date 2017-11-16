@@ -1,0 +1,1 @@
+HostName=iot-demo-hub.azure-devices.net;DeviceId=rasberry_demo;SharedAccessKey=8cQpAzruf4JSEecramhlQlqUB8AaCRfoYe5FXIa7/eU=
